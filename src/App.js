@@ -9,9 +9,8 @@ class App extends Component {
         <div className="App">
             <header className="App-header">PROJECT 4 ASSESSMENT</header>
             <main>
-                <CircleSelector>
-                    <Circles />
-                </CircleSelector>
+                <CircleSelector />
+                <Circles />
             </main>
         </div>
         );
