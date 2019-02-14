@@ -6,12 +6,10 @@ import './App.css';
 class App extends Component {
     state = {
         type: 'div',
-        props: {
-            children: props.selected,
-        }
+        selected: null
     }
     render() {
-        if
+        // if
         return (
         <div className="App">
             <header className="App-header">PROJECT 4 ASSESSMENT</header>
